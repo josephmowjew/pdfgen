@@ -65,3 +65,12 @@ config/*.yml
 *.db
 *.sqlite 
 go.sum
+
+# PDF specific files
+*.pdf
+test-output/
+output/
+generated/
+
+# Test data
+test.json

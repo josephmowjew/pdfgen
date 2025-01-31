@@ -1,0 +1,16 @@
+# Go source files should use LF
+*.go text eol=lf
+go.mod text eol=lf
+go.sum text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Scripts
+*.sh text eol=lf
+
+# Binary files
+*.pdf binary
+*.png binary
+*.jpg binary 
